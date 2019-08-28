@@ -7,4 +7,4 @@ describe "say_hello" do
   say_hello("Kent Beck")
 end
 
-  it 
+  it 'defaults to Ruby Programmer when no name is passed in' do
